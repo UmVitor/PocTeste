@@ -36,5 +36,6 @@ jobs:
         id: run_vstest
         working-directory: UnitTests\bin\Debug
         run: vstest.console.exe .\UnitTests.dll /Tests:TestCaseWorkerIds,TestCaseWorkersCount
+      
       - name: Upload coverage reports to Codecov with GitHub Action
-          uses: codecov/codecov-action@v3
+        uses: codecov/codecov-action@v3
