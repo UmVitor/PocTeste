@@ -1,5 +1,7 @@
 name: Validation of Console App
 on:
+  push:
+    branches: [ "master" ]
   pull_request:
     branches: [ master, develop, release/*, hotfix/* ]
 
