@@ -1,31 +1,40 @@
 {
   "format": 1,
   "restore": {
-    "C:\\123\\gitactionstest\\UnitTests\\UnitTests.csproj": {}
+    "C:\\Users\\vitto\\Desktop\\pocTest\\PocTeste\\UnitTests\\UnitTests.csproj": {}
   },
   "projects": {
-    "C:\\123\\gitactionstest\\gitactionstest.csproj": {
+    "C:\\Users\\vitto\\Desktop\\pocTest\\PocTeste\\gitactionstest.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\123\\gitactionstest\\gitactionstest.csproj",
+        "projectUniqueName": "C:\\Users\\vitto\\Desktop\\pocTest\\PocTeste\\gitactionstest.csproj",
         "projectName": "gitactionstest",
-        "projectPath": "C:\\123\\gitactionstest\\gitactionstest.csproj"
+        "projectPath": "C:\\Users\\vitto\\Desktop\\pocTest\\PocTeste\\gitactionstest.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
       },
       "frameworks": {
         "net472": {}
       }
     },
-    "C:\\123\\gitactionstest\\UnitTests\\UnitTests.csproj": {
+    "C:\\Users\\vitto\\Desktop\\pocTest\\PocTeste\\UnitTests\\UnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\123\\gitactionstest\\UnitTests\\UnitTests.csproj",
+        "projectUniqueName": "C:\\Users\\vitto\\Desktop\\pocTest\\PocTeste\\UnitTests\\UnitTests.csproj",
         "projectName": "UnitTests",
-        "projectPath": "C:\\123\\gitactionstest\\UnitTests\\UnitTests.csproj",
-        "packagesPath": "C:\\Users\\msv\\.nuget\\packages\\",
-        "outputPath": "C:\\123\\gitactionstest\\UnitTests\\obj\\",
+        "projectPath": "C:\\Users\\vitto\\Desktop\\pocTest\\PocTeste\\UnitTests\\UnitTests.csproj",
+        "packagesPath": "C:\\Users\\vitto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vitto\\Desktop\\pocTest\\PocTeste\\UnitTests\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\msv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vitto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -38,8 +47,8 @@
         "frameworks": {
           "net472": {
             "projectReferences": {
-              "C:\\123\\gitactionstest\\gitactionstest.csproj": {
-                "projectPath": "C:\\123\\gitactionstest\\gitactionstest.csproj"
+              "C:\\Users\\vitto\\Desktop\\pocTest\\PocTeste\\gitactionstest.csproj": {
+                "projectPath": "C:\\Users\\vitto\\Desktop\\pocTest\\PocTeste\\gitactionstest.csproj"
               }
             }
           }

@@ -12,7 +12,8 @@ namespace gitactionstest
         {
             Joe = 1,
             Jane = 2,
-            Mark = 3
+            Mark = 3,
+            Tina = 4
         }
     }
 }

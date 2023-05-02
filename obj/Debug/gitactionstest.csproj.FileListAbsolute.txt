@@ -1,0 +1,8 @@
+C:\Users\vitto\Desktop\pocTest\PocTeste\bin\Debug\gitactionstest.exe.config
+C:\Users\vitto\Desktop\pocTest\PocTeste\bin\Debug\gitactionstest.exe
+C:\Users\vitto\Desktop\pocTest\PocTeste\bin\Debug\gitactionstest.pdb
+C:\Users\vitto\Desktop\pocTest\PocTeste\obj\Debug\gitactionstest.csproj.AssemblyReference.cache
+C:\Users\vitto\Desktop\pocTest\PocTeste\obj\Debug\gitactionstest.csproj.SuggestedBindingRedirects.cache
+C:\Users\vitto\Desktop\pocTest\PocTeste\obj\Debug\gitactionstest.csproj.CoreCompileInputs.cache
+C:\Users\vitto\Desktop\pocTest\PocTeste\obj\Debug\gitactionstest.exe
+C:\Users\vitto\Desktop\pocTest\PocTeste\obj\Debug\gitactionstest.pdb
