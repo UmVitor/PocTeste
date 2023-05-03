@@ -16,5 +16,13 @@ namespace gitactionstest
             Tina = 4,
             Bryan = 5
         }
+
+        public void ExplodeString(string a)
+        {
+            foreach (var i in a)
+            {
+                Console.WriteLine($"{i}");
+            }
+        }
     }
 }

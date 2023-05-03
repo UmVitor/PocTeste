@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Sd1cjX0nUR53jQ4Q1XshR2uTls36VwZhJNZzdDaRC1Ku9Y92+7wpWA+WKu+QNt5i2u/YGE6oeMakkG25U9gHJQ==",
+  "dgSpecHash": "f0vEkS0qXDqB96tcLpu0wfWZBNMc7gPNJCHpRFU4Ue8cMjxi3/3YNWs6RRdzWbQM1/+wrPGDpFkqv0Sqtc+vxQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\vitto\\Desktop\\pocTest\\PocTeste\\UnitTests\\UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vitto\\.nuget\\packages\\mstest.testadapter\\2.1.1\\mstest.testadapter.2.1.1.nupkg.sha512",
-    "C:\\Users\\vitto\\.nuget\\packages\\mstest.testframework\\2.1.1\\mstest.testframework.2.1.1.nupkg.sha512"
+    "C:\\Users\\vitto\\.nuget\\packages\\mstest.testframework\\2.1.1\\mstest.testframework.2.1.1.nupkg.sha512",
+    "C:\\Users\\vitto\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\vitto\\.nuget\\packages\\xunit.extensibility.core\\2.4.2\\xunit.extensibility.core.2.4.2.nupkg.sha512"
   ],
   "logs": []
 }

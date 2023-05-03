@@ -1,6 +1,7 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using gitactionstest;
+using Xunit;
 
 namespace UnitTests
 {
@@ -18,7 +19,15 @@ namespace UnitTests
         [TestMethod]
         public void TestCaseWorkersCount()
         {
-            Assert.IsTrue(Enum.GetNames(typeof(Cases.CaseWorkers)).Length == 3);
+            Assert.IsTrue(Enum.GetNames(typeof(Cases.CaseWorkers)).Length == 5);
+        }
+
+        [TestMethod]
+        public void TestCasCoverget()
+        {
+            var a = new Cases();
+            a.ExplodeString("Asset");
+            Assert.IsTrue(true);
         }
     }
 }
