@@ -7,7 +7,7 @@ on:
 
 jobs:
   run-selected-unittests:
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
     env:
       ACTIONS_ALLOW_UNSECURE_COMMANDS: true
     name: Run MSBuild and VSTest
